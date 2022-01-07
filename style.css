@@ -1,0 +1,128 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 10%;
+}
+ h2{
+      font-size: 40px;
+  }
+  h3{
+      font: 30px;
+  }
+
+  section{
+      margin-bottom: 100px;
+  }
+.color{
+   color: #310A60;
+}
+h1{
+    font-size: 50px;
+}
+.focus{
+    border-left: 9px solid;
+    padding-left: 15px;
+    border-color: orange;
+    
+}
+p{
+    margin-bottom: 70px;
+}
+
+.half-side{
+    width: 50%;
+    
+}
+
+.flexible{
+    display: flex;
+}
+
+#afridi{
+    margin-top:  -30%;
+}
+
+.linkedIn{
+    color: green;
+    text-decoration:none;
+    padding: 10px;
+    background-image: linear-gradient(orange,gold);;
+    border-radius: 10px;
+    position: relative;
+    margin-left: 5%;
+
+}
+
+ /* 2nd section*/
+
+ .color2{
+     color: #2CA388;
+ }
+ .color3{
+     color: #7FA0F4;
+ }
+
+.middle{
+    text-align: center;
+}
+
+.illustrators{
+    height: 150px;
+    width: 150px;
+    
+}
+
+
+
+
+.flexible{
+    display: flex;
+    
+}
+
+.flex3{
+    height: 60%;
+    width: 30%;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #74F69C;
+}
+.flex4{
+    margin: 30px;
+    height: 60%;
+    width: 30%;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #2CA388;
+   
+}
+.flex5{
+    
+    margin: 30px;
+    height: 60%;
+    width: 30%;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #7FA0F4;
+}
+
+ /* 3rd section*/
+
+ .person{
+     height: 350px;
+     width: 350px;
+ }
+
+  /* 4th section*/
+
+    /* FOOTER*/
+
+    #foot{
+       font-family: 'Moon Dance', cursive;
+        background-color: rgb(145, 119, 173);
+        text-align: center;
+    }
+
+    .color4{
+        color: #dd2215;
+    }
